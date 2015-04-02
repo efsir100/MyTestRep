@@ -15,6 +15,8 @@ namespace MyTestConsole
 
             Console.WriteLine("Hello World !");
 
+            Console.WriteLine("This is other changes !");
+
         }
     }
 }
