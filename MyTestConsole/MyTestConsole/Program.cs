@@ -12,6 +12,9 @@ namespace MyTestConsole
         {
             // This is test
             // Modify 1 
+
+            Console.WriteLine("Hello World !");
+
         }
     }
 }
