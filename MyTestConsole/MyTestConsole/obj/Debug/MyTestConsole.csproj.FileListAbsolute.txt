@@ -1,2 +1,7 @@
 C:\Users\esirota\Documents\GitHub\MyTestRep\MyTestConsole\MyTestConsole\bin\Debug\MyTestConsole.exe.config
 C:\Development\MyTestRep\MyTestRep\MyTestConsole\MyTestConsole\bin\Debug\MyTestConsole.exe.config
+C:\Development\MyTestRep\MyTestRep\MyTestConsole\MyTestConsole\bin\Debug\MyTestConsole.exe
+C:\Development\MyTestRep\MyTestRep\MyTestConsole\MyTestConsole\bin\Debug\MyTestConsole.pdb
+C:\Development\MyTestRep\MyTestRep\MyTestConsole\MyTestConsole\obj\Debug\MyTestConsole.csprojResolveAssemblyReference.cache
+C:\Development\MyTestRep\MyTestRep\MyTestConsole\MyTestConsole\obj\Debug\MyTestConsole.exe
+C:\Development\MyTestRep\MyTestRep\MyTestConsole\MyTestConsole\obj\Debug\MyTestConsole.pdb
